@@ -4,7 +4,9 @@
 [1. Introduction]()  
 [2. DevOps Lifecycle]()
 
-## Operating Systems & Linux
+## Operating Systems
+
+## Linux
 
 ## Version Control - git
 
