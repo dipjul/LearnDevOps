@@ -7,7 +7,10 @@
 ## Operating Systems
 [1. Operating System](https://github.com/dipjul/LearnDevOps/blob/main/2.Operating-Systems/1.OperatingSystem.md)  
 [2. Virtualization & VirtualMachines](https://github.com/dipjul/LearnDevOps/blob/main/2.Operating-Systems/2.Virtualization&VirtualMachines.md)  
-[3. Linux](https://github.com/dipjul/LearnDevOps/blob/main/2.Operating-Systems/3.Linux.md)
+[3. Linux](https://github.com/dipjul/LearnDevOps/blob/main/2.Operating-Systems/3.Linux.md)  
+[4. Vim](https://github.com/dipjul/LearnDevOps/blob/main/2.Operating-Systems/4.Vim.md)  
+[5. File Ownership & Permission](https://github.com/dipjul/LearnDevOps/blob/main/2.Operating-Systems/5.FileOwnership%26Permissions.md)  
+[6. SSH](https://github.com/dipjul/LearnDevOps/blob/main/2.Operating-Systems/.md)  
 
 ## Version Control - git
 
