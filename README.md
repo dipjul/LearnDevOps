@@ -10,7 +10,9 @@
 [3. Linux](https://github.com/dipjul/LearnDevOps/blob/main/2.Operating-Systems/3.Linux.md)  
 [4. Vim](https://github.com/dipjul/LearnDevOps/blob/main/2.Operating-Systems/4.Vim.md)  
 [5. File Ownership & Permission](https://github.com/dipjul/LearnDevOps/blob/main/2.Operating-Systems/5.FileOwnership%26Permissions.md)  
-[6. SSH](https://github.com/dipjul/LearnDevOps/blob/main/2.Operating-Systems/.md)  
+[6. Shell Scripting](https://github.com/dipjul/LearnDevOps/blob/main/2.Operating-Systems/6.ShellScripting.md)  
+[7. Environment Variables](https://github.com/dipjul/LearnDevOps/blob/main/2.Operating-Systems/7.EnvironmentVariables.md)  
+
 
 ## Version Control - git
 
