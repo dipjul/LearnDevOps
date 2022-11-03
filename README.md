@@ -13,7 +13,7 @@
 [6. Shell Scripting](https://github.com/dipjul/LearnDevOps/blob/main/2.Operating-Systems/6.ShellScripting.md)  
 [7. Environment Variables](https://github.com/dipjul/LearnDevOps/blob/main/2.Operating-Systems/7.EnvironmentVariables.md)  
 [8. Networking](https://github.com/dipjul/LearnDevOps/blob/main/2.Operating-Systems/8.Networking.md)  
-[9. SSH Secure Shell](https://github.com/dipjul/LearnDevOps/blob/main/2.Operating-Systems/)
+[9. SSH Secure Shell](https://github.com/dipjul/LearnDevOps/blob/main/2.Operating-Systems/9.SecureShell.md)
 
 ## Version Control - git
 
