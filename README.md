@@ -1,10 +1,10 @@
 # LearnDevOps
 
-## Introduction
+## 1. Introduction
 [1. Introduction](https://github.com/dipjul/LearnDevOps/blob/main/1.Introduction/1.Introduction.md)  
 [2. DevOps Lifecycle](https://github.com/dipjul/LearnDevOps/blob/main/1.Introduction/2.DevOps-Lifecycle.md)
 
-## Operating Systems
+## 2. Operating Systems
 [1. Operating System](https://github.com/dipjul/LearnDevOps/blob/main/2.Operating-Systems/1.OperatingSystem.md)  
 [2. Virtualization & VirtualMachines](https://github.com/dipjul/LearnDevOps/blob/main/2.Operating-Systems/2.Virtualization&VirtualMachines.md)  
 [3. Linux](https://github.com/dipjul/LearnDevOps/blob/main/2.Operating-Systems/3.Linux.md)  
@@ -15,8 +15,13 @@
 [8. Networking](https://github.com/dipjul/LearnDevOps/blob/main/2.Operating-Systems/8.Networking.md)  
 [9. SSH : Secure Shell](https://github.com/dipjul/LearnDevOps/blob/main/2.Operating-Systems/9.SecureShell.md)
 
-## Version Control - git
+## 3. Version Control - git
 
-## Database basics
+## 4. Database basics
+[1. Introduction](https://github.com/dipjul/LearnDevOps/blob/main/4.Database/1.Introduction.md)  
+[2. Database types](https://github.com/dipjul/LearnDevOps/blob/main/4.Database/2.DatabaseTypes.md)  
 
-## Build Tools
+## 5. Build Tools & Package Manager Tools
+[1. Introduction](https://github.com/dipjul/LearnDevOps/blob/main/5.BuildTools%26PackageManagerTools/1.Introduction.md)  
+[2. Build Tools](https://github.com/dipjul/LearnDevOps/blob/main/5.BuildTools%26PackageManagerTools/2.BuildTools.md)  
+[3. Build Tools & Docker](https://github.com/dipjul/LearnDevOps/blob/main/5.BuildTools%26PackageManagerTools/3.BuildTools%26Docker.md)  
