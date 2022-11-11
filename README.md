@@ -25,3 +25,7 @@
 [1. Introduction](https://github.com/dipjul/LearnDevOps/blob/main/5.BuildTools%26PackageManagerTools/1.Introduction.md)  
 [2. Build Tools](https://github.com/dipjul/LearnDevOps/blob/main/5.BuildTools%26PackageManagerTools/2.BuildTools.md)  
 [3. Build Tools & Docker](https://github.com/dipjul/LearnDevOps/blob/main/5.BuildTools%26PackageManagerTools/3.BuildTools%26Docker.md)  
+
+## 6. Cloud & Infrastructure as Service Basics with Digital Ocean
+[1. Introduction](https://github.com/dipjul/LearnDevOps/blob/main/6.CloudandIaaS/1.Introduction.md)  
+[2. Working with Digital Ocesn](https://github.com/dipjul/LearnDevOps/blob/main/6.CloudandIaaS/2.WorkingWithDigitalOcean.md)  
